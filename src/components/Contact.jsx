@@ -72,11 +72,11 @@ function Contact() {
             <address className="mt-10 space-y-6 not-italic">
               <div>
                 <p className="text-xs font-semibold uppercase tracking-[0.2em] text-gold-500">Office</p>
-                <p className="mt-2 text-white/75">120 Madison Avenue, Suite 1400<br />New York, NY 10016</p>
+                <p className="mt-2 text-white/75">Office No. 01, Ground Floor, Plot No B-5, Sector-20<br />Nerul, Navi Mumbai, MH 400706</p>
               </div>
               <div>
                 <p className="text-xs font-semibold uppercase tracking-[0.2em] text-gold-500">Phone</p>
-                <a href="tel:+12125550184" className="mt-2 inline-block text-white/75 hover:text-white">(212) 555-0184</a>
+                <a href="tel:+12125550184" className="mt-2 inline-block text-white/75 hover:text-white">+91 9272757595</a>
               </div>
               <div>
                 <p className="text-xs font-semibold uppercase tracking-[0.2em] text-gold-500">Email</p>
